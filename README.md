@@ -55,14 +55,6 @@ void main() {
 }
 ```
 
-### Diferenças entre Dart e Java:
-
-| Característica | Dart | Java |
-|---------------|------|------|
-| Tipos básicos | Todos são objetos | Possui tipos primitivos (`int`, `double`, `boolean`) |
-| Wrapper Classes | Não necessárias | Necessárias (`Integer`, `Double`, `Boolean`) |
-| Métodos | Disponíveis diretamente | Precisa converter para wrapper class |
-
 ## Nível Superior
 
 - Variáveis e funções de nível superior são declaradas fora de qualquer classe
