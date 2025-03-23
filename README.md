@@ -67,7 +67,6 @@ void main() {
 
 - Variáveis e funções de nível superior são declaradas fora de qualquer classe
 - São acessíveis em todo o arquivo e podem ser importadas por outros arquivos
-- Diferente de outras linguagens como Java, Dart permite declarações em nível superior
 - São úteis para constantes, utilitários e configurações globais
 
 ### Exemplos
